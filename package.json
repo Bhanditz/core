@@ -42,7 +42,7 @@
     "lowdb": "0.16.2",
     "moment": "2.18.1",
     "nlp_compromise": "6.5.3",
-    "node-fetch": "1.7.1",
+    "node-fetch": "2.6.1",
     "sentiment": "4.0.0",
     "weather-js": "2.0.0",
     "world-countries": "1.8.1",
