@@ -950,11 +950,12 @@ chokidar@^1.6.1:
   optionalDependencies:
     fsevents "^1.0.0"
 
-chrono-node@1.3.5:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/chrono-node/-/chrono-node-1.3.5.tgz#a2495298a32da82bcc01ad9be7d77efa5e244122"
+chrono-node@2.2.4:
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/chrono-node/-/chrono-node-2.2.4.tgz#0fa169e1d158935bb1d541010046f6107576347d"
+  integrity sha512-58ERHGfWtWzBxckF9ZyFuwJjcreLDr7C79lHEynSqZ7J8y1JfMa8ok1TvCCf/TOZmkGME1ZSaEEb0DqqWaNFHg==
   dependencies:
-    moment "^2.10.3"
+    dayjs "^1.10.0"
 
 circular-json@^0.3.1:
   version "0.3.1"
@@ -1086,6 +1087,11 @@ dashdash@^1.12.0:
   resolved "https://registry.yarnpkg.com/dashdash/-/dashdash-1.14.1.tgz#853cfa0f7cbe2fed5de20326b8dd581035f6e2f0"
   dependencies:
     assert-plus "^1.0.0"
+
+dayjs@^1.10.0:
+  version "1.10.4"
+  resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.10.4.tgz#8e544a9b8683f61783f570980a8a80eaf54ab1e2"
+  integrity sha512-RI/Hh4kqRc1UKLOAf/T5zdMMX5DQIlDxwUe3wSyMMnEbGunnpENCdbUgM+dW7kXidZqCttBrmw7BhN4TMddkCw==
 
 debug@2.6.0, debug@^2.1.1, debug@^2.2.0:
   version "2.6.0"
@@ -2222,7 +2228,7 @@ mocha@^3.4.2:
     mkdirp "0.5.1"
     supports-color "3.1.2"
 
-moment@2.18.1, moment@^2.10.3:
+moment@2.18.1:
   version "2.18.1"
   resolved "https://registry.yarnpkg.com/moment/-/moment-2.18.1.tgz#c36193dd3ce1c2eed2adb7c802dbbc77a81b1c0f"
 
@@ -3032,7 +3038,7 @@ wordwrap@~1.0.0:
   resolved "https://registry.yarnpkg.com/wordwrap/-/wordwrap-1.0.0.tgz#27584810891456a4171c8d0226441ade90cbcaeb"
 
 world-countries@1.8.1:
-  version v1.8.1
+  version "1.8.1"
   resolved "https://registry.yarnpkg.com/world-countries/-/world-countries-1.8.1.tgz#14ba7d735d422d63de70deb6e35ec5e49341b209"
 
 wrappy@1:
