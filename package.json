@@ -36,10 +36,10 @@
   "dependencies": {
     "alchemy-api": "1.3.3",
     "bayes": "0.0.7",
-    "chrono-node": "1.3.5",
-    "cld": "2.4.5",
+    "chrono-node": "1.4.2",
+    "cld": "2.7.1",
     "google-translate-api": "2.3.0",
-    "lowdb": "0.16.2",
+    "lowdb": "2.0.0",
     "moment": "2.18.1",
     "nlp_compromise": "6.5.3",
     "node-fetch": "1.7.1",
