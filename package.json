@@ -46,7 +46,7 @@
     "sentiment": "4.0.0",
     "weather-js": "2.0.0",
     "world-countries": "1.8.1",
-    "wtf_wikipedia": "1.0.1"
+    "wtf_wikipedia": "3.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
